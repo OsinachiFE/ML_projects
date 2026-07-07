@@ -1,5 +1,6 @@
 # ML_projects
 A curated collection of machine learning projects from university coursework and personal exploration, showcasing core techniques, model building, and applied problem-solving.
+
 Mini Project - COMP7019
 1. Business Overview: Airline Passenger Satisfaction
 1.1 Overview
